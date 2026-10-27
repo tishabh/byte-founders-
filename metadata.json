@@ -1,0 +1,6 @@
+{
+  "name": "AegisRelief AI - Dynamic Disaster Resource Coordination",
+  "description": "Multi-Agent Autonomous Simulation & Emergency Orchestration System for Flood Management in India (SDG 11 & SDG 13) with Dynamic Replanning and Human-in-the-Loop Governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
